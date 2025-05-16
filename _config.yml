@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jinwen Chen"
-  pronouns         : "her" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : #"her" 
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "ChengDu, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "jinwenc@std.uestc.edu.cn" 
