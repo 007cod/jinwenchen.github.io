@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m a master's student at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, supervised by Prof. Kai Zheng. Moreover, I am co-supervised by Dr. Yan Zhao. Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2024.
+## About Me
 
-My research interests include spatio-temporal data and spatial crowdsourcing.
+I am a master's student at the **School of Computer Science and Engineering**, University of Electronic Science and Technology of China, supervised by **Prof. Kai Zheng** and co-supervised by **Dr. Yan Zhao**. I received my B.E. degree from **Chongqing University of Posts and Telecommunications** in 2024.
 
-Publications
-======
-1. [ICDE 2025] Jinwen Chen, Hao Miao, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing. In ICDE 2025.
-2. [ICDE 2025] Jinwen Chen, Jiannan Guo, Dazhuo Qiu, Yawen Li, Guanhua Ye, Yan Zhao, Kai Zheng. DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows. In ICDE 2025.
+My research interests include **spatio-temporal data** and **spatial crowdsourcing**.
+
+## Publications
+
+1. **\[ICDE 2025]** Jinwen Chen, Hao Miao, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. *Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing*. In *Proceedings of the IEEE International Conference on Data Engineering (ICDE 2025)*.
+
+2. **\[ICDE 2025]** Jinwen Chen, Jiannan Guo, Dazhuo Qiu, Yawen Li, Guanhua Ye, Yan Zhao, Kai Zheng. *DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows*. In *Proceedings of the IEEE International Conference on Data Engineering (ICDE 2025)*.
