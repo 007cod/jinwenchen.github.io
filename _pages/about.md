@@ -20,4 +20,8 @@ My research interests include **spatio-temporal data** and **spatial crowdsourci
 
 3. **\[KDD 2025]** Dazhuo Qiu, **Jinwen Chen**, Arijit Khan, Yan Zhao, Francesco Bonchi. *Finding Counterfactual Evidences for Node Classification*.
 
-## Educations {#talks}
+## Educations {#Educations}
+2020.9-2024.6, Chongqing University of Posts and Telecommunications, Bachelor, Computer Science and Technology
+2024.09 - present, University of Electronic Science and Technology of China, Master, Computer Science and Technology
+
+## Honors and Awards {#Honors-and-Awards}
