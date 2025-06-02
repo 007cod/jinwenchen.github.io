@@ -22,6 +22,7 @@ My research interests include **spatio-temporal data** and **spatial crowdsourci
 
 ## Educations {#Educations}
 2020.9-2024.6, Chongqing University of Posts and Telecommunications, Bachelor, Computer Science and Technology
+
 2024.09 - present, University of Electronic Science and Technology of China, Master, Computer Science and Technology
 
 ## Honors and Awards {#Honors-and-Awards}
