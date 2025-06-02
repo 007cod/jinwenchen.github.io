@@ -11,8 +11,11 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Talks"
-    url: "#talks"    
+  - title: "Educations"
+    url: "#Educations"   
+    
+  - title: "Honors and Awards"
+    url: "#Honors-and-Awards"   
 
   # - title: "Teaching"
   #   url: /teaching/    
