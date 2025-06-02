@@ -19,3 +19,5 @@ My research interests include **spatio-temporal data** and **spatial crowdsourci
 2. **\[ICDE 2025]** **Jinwen Chen**, Jiannan Guo, Dazhuo Qiu, Yawen Li, Guanhua Ye, Yan Zhao, Kai Zheng. *DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows*. 
 
 3. **\[KDD 2025]** Dazhuo Qiu, **Jinwen Chen**, Arijit Khan, Yan Zhao, Francesco Bonchi. *Finding Counterfactual Evidences for Node Classification*.
+
+## Educations {#talks}
