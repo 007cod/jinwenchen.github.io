@@ -33,11 +33,8 @@ My research interests include **spatio-temporal data**, and **spatial crowdsourc
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
 # 📖 Educations
 - 2020.9 - 2024.6, Chongqing University of Posts and Telecommunications, Bachelor, Computer Science and Technology
 - 2024.09 - present, University of Electronic Science and Technology of China, Master, Computer Science and Technology
-
-# 💻 Honors and Awards 
