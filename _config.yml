@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jinwen Chen"
-description              : "I am a PhD student at the School of Computer Science and Engineering, University of Electronic Science and Technology of China"
-repository               : "007cod/jinwenchen.github.io"
+description              : "Jinwen Homepage"
+repository               : "007cod.github.io/jinwenchen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ojKHuYEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ojKHuYEAAAAJ&hl=zh-CN"
   email            : "jinwenc@std.uestc.edu.cn.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
