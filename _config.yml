@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jinwen Chen"
 description              : "Jinwen Homepage"
-repository               : "007cod.github.io/jinwenchen.github.io"
+repository               : "007cod/jinwenchen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
