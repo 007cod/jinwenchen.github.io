@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the **School of Computer Science and Engineering**, University of Electronic Science and Technology of China, supervised by **Prof. Kai Zheng** and co-supervised by **Prof. Yan Zhao**. I received my B.E. degree from **Chongqing University of Posts and Telecommunications** in 2024.
+I'm a PhD student at the **School of Computer Science and Engineering**, University of Electronic Science and Technology of China, supervised by **Prof. Kai Zheng** and co-supervised by **Prof. Yan Zhao**. I received my B.E. degree from **Chongqing University of Posts and Telecommunications** in 2024.
 
 My research interests include **spatio-temporal data**, and **spatial crowdsourcing**.
 
