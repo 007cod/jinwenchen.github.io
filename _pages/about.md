@@ -25,7 +25,7 @@ My research interests include **spatio-temporal data**, and **spatial crowdsourc
 # 🔥 News
 
 
-# 📝 Publications {#publications}
+# 📝 Publications 
 
 - **\[ICDE 2025]** **Jinwen Chen**, Hao Miao, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. *Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing*.
 - **\[ICDE 2025]** **Jinwen Chen**, Jiannan Guo, Dazhuo Qiu, Yawen Li, Guanhua Ye, Yan Zhao, Kai Zheng. *DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows*. 
@@ -35,6 +35,6 @@ My research interests include **spatio-temporal data**, and **spatial crowdsourc
 # 🎖 Honors and Awards 
 - 
 
-# 📖 Educations {#educations}
+# 📖 Educations 
 - 2020.9 - 2024.6, Chongqing University of Posts and Telecommunications, Bachelor, Computer Science and Technology
 - 2024.09 - present, University of Electronic Science and Technology of China, Master, Computer Science and Technology
