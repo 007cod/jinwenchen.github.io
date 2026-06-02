@@ -26,7 +26,9 @@ My research interests include **spatio-temporal data**, and **spatial crowdsourc
 
 
 # 📝 Publications 
-
+- **\[WWW 2026]** **Jinwen Chen**, Hao Miao, Chenxi Liu, Yan Zhao, Kai Zheng. *VisionST: Coordinating Cross-modal Traffic Prediction with Interactive Geo-image Encoding*.
+- **\[ICDE 2026]** **Jinwen Chen**, Hao Miao, Lei Jia, Guangqiang Yin, Yan Zhao, Kai Zheng. *Balancing Competition for Fairness-aware Task Recommendation and Assignment in Spatial Crowdsourcing*.
+- **\[TMC 2026]** **Jinwen Chen**, Jiannan Guo, Dazhuo Qiu, Weizhu Qian, Yan Zhao, Kai Zheng. *Efficient Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows*.
 - **\[ICDE 2025]** **Jinwen Chen**, Hao Miao, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. *Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing*.
 - **\[ICDE 2025]** **Jinwen Chen**, Jiannan Guo, Dazhuo Qiu, Yawen Li, Guanhua Ye, Yan Zhao, Kai Zheng. *DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows*. 
 - **\[KDD 2025]** Dazhuo Qiu, **Jinwen Chen**, Arijit Khan, Yan Zhao, Francesco Bonchi. *Finding Counterfactual Evidences for Node Classification*.
